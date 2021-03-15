@@ -12,4 +12,4 @@ elif op == "3":
 elif op == "4":
     print(num1 / num2)
 else:
-    print("Enter the provided choices!")
+    print("Please enter the provided choices!")
