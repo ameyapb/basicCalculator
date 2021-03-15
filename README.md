@@ -1,3 +1,3 @@
 # basicCalculator
 
-This is a basic python code for a calculator. 
+Basic python code for a calculator. 
